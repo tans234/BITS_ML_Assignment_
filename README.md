@@ -31,7 +31,7 @@ Predict whether a wine is of **good quality** (quality score >= 7) or **not good
 
 ## c. GitHub Repository Link
 
-[GitHub Repository](https://github.com/YOUR_USERNAME/ml-assignment-2)
+[GitHub Repository]https://github.com/tans234/BITS_ML_Assignment_/
 
 ## d. Models Used
 
@@ -95,4 +95,4 @@ python test_app.py
 
 ## Live App
 
-[Streamlit App](https://YOUR_APP_URL.streamlit.app)
+[Streamlit App]https://bitsmlassignment-tdeajrlpg2wyajynhjdrxs.streamlit.app/
