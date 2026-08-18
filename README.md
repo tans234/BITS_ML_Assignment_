@@ -59,7 +59,7 @@ Predict whether a wine is of **good quality** (quality score >= 7) or **not good
 ## Project Structure
 
 ```
-ml-assignment-2/
+BITS_ML_Assignment_/
 ├── app.py              # Streamlit web application
 ├── requirements.txt    # Python dependencies
 ├── README.md           # This file
